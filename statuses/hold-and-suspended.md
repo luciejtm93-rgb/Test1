@@ -1,4 +1,8 @@
-# ⛔ Client Hold, Server Hold и suspended
+---
+icon: snowflake-droplets
+---
+
+# Client Hold, Server Hold и suspended
 
 > Быстрый ответ: это серьёзные статусы. Они означают, что обслуживание домена ограничено или приостановлено, и такой кейс почти всегда требует ручной проверки.
 
