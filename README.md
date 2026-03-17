@@ -1,6 +1,6 @@
 # // База знаний 1REG
 
-<figure><img src=".gitbook/assets/готово 2.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Pre-comp 9_4.gif" alt=""><figcaption></figcaption></figure>
 
 
 
