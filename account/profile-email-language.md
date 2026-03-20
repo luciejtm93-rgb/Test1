@@ -16,7 +16,7 @@ icon: square-user
 * WHOIS-данные
 * почта
 
-
+<figure><img src="../.gitbook/assets/photo_2026-03-20_18-10-49.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Зачем привязывать почту
 
